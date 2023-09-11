@@ -1,0 +1,16 @@
+#exampleModalToggle .modal{
+    display: flex;
+    justify-content: center;
+    background: none;
+    border: none;
+}
+#exampleModalToggle .modal-content{
+    background: none;
+    border: none;
+}
+#exampleModalToggle .modal-header{
+    display: flex;
+    justify-content: center;
+    background: none;
+    border: none;
+}
