@@ -87,5 +87,5 @@ function SV()
 
 function Cg()
 {
-    window.location.assign("index1.html")
+    window.location.assign("index2.html")
 }

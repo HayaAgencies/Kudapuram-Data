@@ -36,5 +36,5 @@ function add(){
 }
 function Proceed(InvoiceNo){
     sessionStorage.setItem("Invoicen", InvoiceNo)
-    window.location.assign("index2.html")
+    window.location.assign("index3.html")
 }
