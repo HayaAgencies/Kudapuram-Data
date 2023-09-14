@@ -39,7 +39,7 @@ function ValidatePasword()
     {
         $("#Successlogin").show()
         $("#Password").css("border","1px solid green")
-        window.location.assign("index2.html")
+        window.location.assign("index1.html")
     }
     else
     {
