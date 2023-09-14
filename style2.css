@@ -11,7 +11,7 @@ body{
 }
 .menu{
     background: rgb(0, 100, 0);
-    text-align: center;
+    text-align: left;
 }
 .menu ul{
     display: inline-flex;
@@ -20,7 +20,7 @@ body{
 }
 .menu ul li{
     margin: 15px;
-    width: 120px;
+    width: 130px;
     padding: 15px;
 }
 .menu ul li a{
