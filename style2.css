@@ -20,8 +20,6 @@ body{
 }
 .menu ul li{
     margin: 15px;
-    width: 130px;
-    padding: 15px;
 }
 .menu ul li a{
     text-decoration: none;
